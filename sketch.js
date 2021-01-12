@@ -98,11 +98,11 @@ function draw() {
   text("12", 185, 35);
   pop();
   
-  push();
-  fill("blue");
-  text(Math.round(mouseX), 10, 15);
-  text(Math.round(mouseY), 35, 15);
-  pop();
+//   push();
+//   fill("blue");
+//   text(Math.round(mouseX), 10, 15);
+//   text(Math.round(mouseY), 35, 15);
+//   pop();
 }
 
 // async function time(){
